@@ -12,7 +12,8 @@ RULES :
 6. Incorrect Reproduction: If the player makes a mistake and reproduces the pattern incorrectly, the game ends. The player's score is usually displayed, indicating the level reached or the number of correct repetitions.
 7. Restart: Players can choose to start a new game or retry the same level to improve their performance.
 
-Code Explination :
+
+CODE EXPLINATION :
 
 -> Variable Declarations:
 buttonColours: An array that stores the colors available for the game buttons.
