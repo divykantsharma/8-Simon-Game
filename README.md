@@ -2,6 +2,7 @@
 Made this project with the help of jQuery involving a lot of concepts of JavaScript.
 
 Simon game, a memory-based pattern matching game.
+
 RULES :
 1. Start: The game begins with a visual cue or instruction indicating the start of the game.
 2. Pattern Display: The game displays a pattern of colors or symbols, usually accompanied by corresponding sounds. The pattern is shown for a specific duration.
@@ -12,6 +13,7 @@ RULES :
 7. Restart: Players can choose to start a new game or retry the same level to improve their performance.
 
 Code Explination :
+
 -> Variable Declarations:
 buttonColours: An array that stores the colors available for the game buttons.
 gamePattern: An empty array to store the randomly generated pattern sequence.
